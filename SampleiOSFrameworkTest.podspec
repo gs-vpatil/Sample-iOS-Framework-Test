@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SampleiOSFrameworkTest'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Created a Sample iOS Framework for testing on cocoapods.'
 
 # This description is used to generate tags and improve search results.
