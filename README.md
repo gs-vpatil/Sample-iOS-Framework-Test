@@ -1,16 +1,5 @@
 # SampleiOSFrameworkTest
 
-[![CI Status](https://img.shields.io/travis/Vishwajeet/SampleiOSFrameworkTest.svg?style=flat)](https://travis-ci.org/Vishwajeet/SampleiOSFrameworkTest)
-[![Version](https://img.shields.io/cocoapods/v/SampleiOSFrameworkTest.svg?style=flat)](https://cocoapods.org/pods/SampleiOSFrameworkTest)
-[![License](https://img.shields.io/cocoapods/l/SampleiOSFrameworkTest.svg?style=flat)](https://cocoapods.org/pods/SampleiOSFrameworkTest)
-[![Platform](https://img.shields.io/cocoapods/p/SampleiOSFrameworkTest.svg?style=flat)](https://cocoapods.org/pods/SampleiOSFrameworkTest)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
 ## Installation
 
 SampleiOSFrameworkTest is available through [CocoaPods](https://cocoapods.org). To install
