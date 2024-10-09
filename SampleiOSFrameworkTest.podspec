@@ -11,6 +11,7 @@ Created a Sample iOS Framework to upload it on cocoapods and test it on cocoapod
   s.source           = { :git => 'git@github.com:gs-vpatil/Sample-iOS-Framework-Test.git' }
   s.ios.deployment_target = '14.0'
   s.swift_versions = ['5.0']
+  
   # Point directly to the .xcframework in your repository
-  s.vendored_frameworks = './SampleiOSFrameworkTest.xcframework'
+  s.vendored_frameworks = 'SampleiOSFrameworkTest.xcframework'
 end
